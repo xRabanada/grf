@@ -11,17 +11,39 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f8f8f8;
+            background-color: #f0f0f5;
             color: #333;
             text-align: center;
             padding: 20px;
         }
         .container {
-            max-width: 600px;
+            max-width: 450px;
             background: #fff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #222;
+        }
+        p {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #007BFF;
+        }
+        .important {
+            font-size: 16px;
+            font-weight: bold;
+            color: #ff5733;
+            margin-top: 15px;
+            padding: 10px;
+            background: rgba(255, 87, 51, 0.1);
+            border-radius: 5px;
         }
         a {
             color: #007BFF;
@@ -35,21 +57,15 @@
 </head>
 <body>
     <div class="container">
-        <p>Esta GRF foi <strong>COMPRADA</strong> pelo <strong>Rabanada</strong> e pela guild <strong>Padaria e Café</strong></p>
-        <p>Caso queira apoiar o cara que fez a GRF (<strong>Helgons</strong>), o live pix dele é:<br>
-        <a href="https://livepix.gg/helgons" target="_blank">https://livepix.gg/helgons</a></p>
-        <p>Recomendamos entrar no nosso Discord para sempre pegar atualizações da GRF:<br>
-        <a href="http://discord.gg/nMFbMpgGkU" target="_blank">http://discord.gg/nMFbMpgGkU</a></p>
+        <h1>GRF - Apoio</h1>
+        <p>Esta GRF foi <span class="highlight">COMPRADA</span> pelo Rabanada e pela guild Padaria e Café.</p>
+        <p>Quer apoiar o criador da GRF (<span class="highlight">Helgons</span>)? <a href="https://livepix.gg/helgons" target="_blank">Clique aqui</a></p>
+        <p>Para atualizações, entre no nosso <a href="http://discord.gg/nMFbMpgGkU" target="_blank">Discord</a></p>
         <hr>
-        <p><strong>APOIE A GRF</strong>, a cada modificação da GRF é paga, nos ajude <strong>DE GRAÇA</strong></p>
-        <p>Vá ao site do Ragnatales:<br>
-        <a href="https://ragnatales.com.br/profile/personal" target="_blank">https://ragnatales.com.br/profile/personal</a></p>
-        <p>Vincule seu Discord, coloque em <strong>Streamer Parceiro</strong> e escolha <strong>Rabanada</strong></p>
+        <p class="important">APOIE A GRF SEM CUSTO!<br>Vá ao <a href="https://ragnatales.com.br/profile/personal" target="_blank">site do Ragnatales</a>, vincule seu Discord e escolha <span class="highlight">Rabanada</span> como Streamer Parceiro.</p>
         <hr>
-        <p><strong>E não se esqueça</strong>, segue na Twitch:<br>
-        <a href="https://www.twitch.tv/xRabanada" target="_blank">Twitch.tv/xRabanada</a></p>
-        <p>Se você tem acesso a ela, parabéns! Você foi um dos escolhidos.<br>
-        A senha do Winrar é: <strong>rabanada</strong></p>
+        <p>Não se esqueça de seguir na <a href="https://www.twitch.tv/xRabanada" target="_blank">Twitch</a></p>
+        <p>Se você tem acesso à GRF, parabéns! A senha do Winrar é: <span class="highlight">rabanada</span></p>
     </div>
 </body>
 </html>
