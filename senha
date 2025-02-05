@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRF - Apoio</title>
+    <style>
+        body {
+            font-family: Montserrat, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8f8f8;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>Esta GRF foi <strong>COMPRADA</strong> pelo <strong>Rabanada</strong> e pela guild <strong>Padaria e Café</strong></p>
+        <p>Caso queira apoiar o cara que fez a GRF (<strong>Helgons</strong>), o live pix dele é:<br>
+        <a href="https://livepix.gg/helgons" target="_blank">https://livepix.gg/helgons</a></p>
+        <p>Recomendamos entrar no nosso Discord para sempre pegar atualizações da GRF:<br>
+        <a href="http://discord.gg/nMFbMpgGkU" target="_blank">http://discord.gg/nMFbMpgGkU</a></p>
+        <hr>
+        <p><strong>APOIE A GRF</strong>, a cada modificação da GRF é paga, nos ajude <strong>DE GRAÇA</strong></p>
+        <p>Vá ao site do Ragnatales:<br>
+        <a href="https://ragnatales.com.br/profile/personal" target="_blank">https://ragnatales.com.br/profile/personal</a></p>
+        <p>Vincule seu Discord, coloque em <strong>Streamer Parceiro</strong> e escolha <strong>Rabanada</strong></p>
+        <hr>
+        <p><strong>E não se esqueça</strong>, segue na Twitch:<br>
+        <a href="https://www.twitch.tv/xRabanada" target="_blank">Twitch.tv/xRabanada</a></p>
+        <p>Se você tem acesso a ela, parabéns! Você foi um dos escolhidos.<br>
+        A senha do Winrar é: <strong>rabanada</strong></p>
+    </div>
+</body>
+</html>
